@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1706267461 source:c:\users\2tudy\desktop\sdl projects\final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	"bib.h"
+	<stdbool.h>
+	<time.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<string.h>
+
+1706266647 c:\users\2tudy\desktop\sdl projects\final\bib.h
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<string.h>
+
+1706266550 source:c:\users\2tudy\desktop\sdl projects\final\fonctions.c
+	<stdlib.h>
+	<stdio.h>
+	"bib.h"
+	<time.h>
+	<string.h>
+
+1706266617 source:c:\users\2tudy\desktop\sdl projects\final\sdl_fonctions.c
+	<SDL2/SDL.h>
+	<stdlib.h>
+	<stdio.h>
+	"bib.h"
+	<time.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_image.h>
+	<string.h>
+
